@@ -1,0 +1,1 @@
+a spring boot project that generate a token for our user in order to access secured  end point.
